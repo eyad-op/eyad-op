@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Eyad
-- 👀 I’m interested in web development 
+# 👋 Hi there I’m Eyad
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project to sharpen my skills.
 - 📫 eyad.khalil.91@gmail.com
